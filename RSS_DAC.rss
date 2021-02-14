@@ -8,7 +8,7 @@
        <link>https://admunzi.github.io/sindicaciondecontenidos/</link>
        <description>Tu blog de confianza</description>
        <language>es-ES</language>
-       <lastBuildDate>Sun, 14 Feb 2022 15::00 +0100</lastBuildDate>
+       <lastBuildDate>Sun, 14 Feb 2022 12::00 +0100</lastBuildDate>
        <webMaster>a20aycada@iesgrancapitan.org</webMaster>
 
        <skipDays>
@@ -25,8 +25,8 @@
        </skipHours>
        <image>
            <url>https://www-assets.carwow.es/assets/blog-index-header-es-75b810def39c2600b7252ef15ff1dbf67c9560687daa092a8688f6f0b1d3091e.jpg</url>
-           <title>Tu blog de coches</title>
-           <link>https://viorbe20.github.io/sindicaciondecontenidos/</link>
+           <title>Blog de vehiculos</title>
+           <link>https://admunzi.github.io/sindicaciondecontenidos/</link>
        </image>
 
        <!--Entradas-->
@@ -44,16 +44,16 @@
            <title>El SEAT Arona GO2 incluye mucho más equipamiento por muy poco dinero</title>
            <link>https://www.carwow.es/blog/seat-arona-go2</link>
            <description>SEAT ha lanzado la edición GO2 para su modelo Arona, que está disponible desde 21.310 euros en los acabados Style, Xcellence y FR, así como en los motores 1.0 TSI, 1.5 TSI y 1.0 TGI.</description>
-           <author>prueba@gmail.com</author>
+           <author>traca@gmail.com</author>
            <pubDate>Sat, 13 Feb 2022 15:20:00 +0100</pubDate>
            <enclosure url="https://carwow-es-wp-0.imgix.net/SEAT-Arona-GO2-1-1.jpg" length="5000" type="image/jpg"/>
        </item>
 
        <item>
            <title>El TOP 10 de los eléctricos y los híbridos enchufables más vendidos de Europa en 2020</title>
-           <link>https://www.carwow.es/blog/top-10-ventas-híbridos-eléctricos</link>
+           <link>https://www.carwow.es/blog/top-10-ventas-híbridos-eléctricos/</link>
            <description>En España, esta regresión fue del 32,3%, para volver a unas cifras similares a las de principios de los años 90 del siglo pasado.</description>
-           <author>prueba@gmail.com</author>
+           <author>trabajo@gmail.com</author>
            <pubDate>Sat, 13 Feb 2022 15:20:00 +0100</pubDate>
            <enclosure url="https://carwow-es-wp-0.imgix.net/Coche-electrico-2020.jpg" length="5000" type="image/jpg"/>
  
@@ -63,7 +63,7 @@
            <title>Avistamiento del Audi A8 2022: ligeros cambios para seguir en la contienda por el cliente de lujo</title>
            <link>https://www.carwow.es/blog/audi-a8-2022-fotos-espia</link>
            <description>El Audi A8 es la berlina más grande y lujosa del fabricante, con 5,18 o 5,30 metros de longitud en función de la variante de carrocería.</description>
-           <author>prueba@gmail.com</author>
+           <author>manib@gmail.com</author>
            <pubDate>Sat, 13 Feb 2022 15:20:00 +0100</pubDate>
            <enclosure url="https://carwow-es-wp-0.imgix.net/Audi-A8-2022-frontal-1.jpg" length="5000" type="image/jpg"/>
        </item>
